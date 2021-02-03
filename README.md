@@ -7,3 +7,4 @@ Projeto 30 Dias com CSS
 - Dia 4 - Navegação de guia
 - Dia 5 - Flip Text
 - Dia 6 - E-commerce Card
+- Dia 7 - Neon Text
