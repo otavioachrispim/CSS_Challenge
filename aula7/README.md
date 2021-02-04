@@ -1,4 +1,4 @@
 # CSS Challenge
-Quinto dia do projeto 30 Dias com CSS.
+Sétimo dia do projeto 30 Dias com CSS.
 
-Criação de Flip Text.
+Criação de Neon Text.
